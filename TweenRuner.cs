@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using UnityEngine;
 
-namespace Tween
+namespace Tweening
 {
     public class TweenRunner
     {

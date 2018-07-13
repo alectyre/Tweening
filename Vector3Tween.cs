@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Tween
+namespace Tweening
 {
     public class Vector3Tween : ITween {
 

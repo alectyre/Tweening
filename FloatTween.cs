@@ -2,7 +2,7 @@
 using UnityEngine.Events;
 using System.Collections;
 
-namespace Tween
+namespace Tweening
 {
     internal struct FloatTween : ITween
     {
