@@ -1,6 +1,7 @@
 # Tweening
 Some simple tweening functions for Unity, based on internal Unity methods.
 
+'''C#
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Events;
@@ -55,3 +56,4 @@ public class Example : MonoBehaviour {
         _alphaTweenRunner.RunTween(alphaTween);
     }
 }
+'''
