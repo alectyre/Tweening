@@ -1,5 +1,5 @@
 # Tweening
-Some simple tweening functions for Unity.
+Some simple tweening functions for Unity, based heavily on Unity source decompile.
 
 ```C#
 using UnityEngine;
