@@ -4,7 +4,7 @@ using System.Collections;
 
 namespace Tweening
 {
-    internal struct FloatTween : ITween
+    public struct FloatTween : ITween
     {
         private System.Action<float> _callback;
         private float _startValue;
